@@ -1,0 +1,32 @@
+{
+  "name": "証憑ポケット",
+  "short_name": "証憑ポケット",
+  "description": "請求書・見積書・領収書を撮影してPDF保存・集計（電子帳簿保存法の記録項目に対応）",
+  "lang": "ja",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F7F6F2",
+  "theme_color": "#1E3352",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
